@@ -1,0 +1,15 @@
+{
+  "name": "http2ws2",
+  "version": "1.0.0",
+  "description": "WebSockets over HTTP/2 in Node.js POC",
+  "main": "http2ws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James M Snell <jasnell@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "websocket-stream": "^5.1.2",
+    "ws": "^6.1.0"
+  }
+}
